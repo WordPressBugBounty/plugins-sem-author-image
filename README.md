@@ -1,0 +1,1 @@
+# plugins-sem-author-image
